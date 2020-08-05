@@ -46,7 +46,8 @@ input,
 button,
 textarea {
     /* 16px x 0.6(60%) == 9.6px  e só altera no % **/
-    font: 500 1.6rem Poppins; 
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
 }
 
 .container {
